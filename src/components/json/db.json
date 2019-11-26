@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "jhon doe",
+      "email": "jhon_doe@gmail.com"
+    },
+    {
+      "id": 1,
+      "name": "jhoni",
+      "email": "jhon@gmail.com"
+    },
+    {
+      "name": "jhone1",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "viergiawan96@gmail.com",
+      "email": "satrio_yudho"
+    },
+    {
+      "id": 4,
+      "name": "angga@gmail.com",
+      "email": "angga"
+    }
+  ]
+}
