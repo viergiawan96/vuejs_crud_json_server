@@ -1,3 +1,16 @@
+# Create server json
+
+### setup server json
+```
+npm install -g json-server
+```
+
+### compiles file json
+```
+src/components/json
+json-server db.json
+```
+
 # vuejs
 
 ## Project setup
