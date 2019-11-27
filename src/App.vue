@@ -8,7 +8,7 @@
               <a class="nav-link"><router-link to="/">Home</router-link><span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link"><router-link to="/siswa">Siswa</router-link></a>
+              <a class="nav-link"><router-link to="/siswa">Karyawan</router-link></a>
             </li>
             <li class="nav-item">
               <a class="nav-link"><router-link to="/about">About</router-link></a>
