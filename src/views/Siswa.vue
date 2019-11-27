@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h3>Siswa CRUD</h3>
+    <h3>Karyawan CRUD</h3>
     <HelloWorld/>
   </div>
 </template>
