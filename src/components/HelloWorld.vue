@@ -91,9 +91,10 @@ export default {
           }, 
       add(){
           axios.post('http://localhost:3000/users/', this.form).then(res => {
-              this.load()
+              alert( 'nama = ' + this.form.name +' dan ' + 'email= ' + this.form.email + ' ' + 'Berhasil di tambah')
               this.form.name = ''
               this.form.email=''
+              this.load()
               this.$modal.hide('modal-tambah')
           })
           },
